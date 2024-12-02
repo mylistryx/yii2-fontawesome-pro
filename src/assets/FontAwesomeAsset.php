@@ -9,11 +9,11 @@ class FontAwesomeAsset extends AssetBundle
     public $sourcePath = __DIR__ . '/dist';
 
     public $css = [
-        'css/all.css',
+        'css/all.min.css',
     ];
 
     public $js = [
-        'js/all.js',
+        'js/all.min.js',
     ];
 
     public $publishOptions = [
