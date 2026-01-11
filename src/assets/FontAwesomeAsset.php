@@ -9,6 +9,6 @@ class FontAwesomeAsset extends AssetBundle
     public $sourcePath = __DIR__ . '/dist';
 
     public $css = [
-        'css/all.min.css',
+        'css/all.css',
     ];
 }
