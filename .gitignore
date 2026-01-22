@@ -1,6 +1,6 @@
 # phpstorm project files
-.idea
+/.idea
 
-vendor
+/vendor
 
-composer.lock
+/composer.lock
